@@ -1,3 +1,13 @@
+Manual configured s3/cloudfront resources:
+
+S3 link - http://my-second-surfboard-app.s3-website-us-east-1.amazonaws.com
+
+Automated configured s3/cloudfront resources:
+
+CloudFront link - https://d3mk48cuuo9cvv.cloudfront.net
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
