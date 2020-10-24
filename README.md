@@ -1,8 +1,12 @@
 Manual configured s3/cloudfront resources:
 
-S3 link - http://my-second-surfboard-app.s3-website-us-east-1.amazonaws.com
+S3 link - http://my-first-surf-app.s3-website-eu-west-1.amazonaws.com/
+
+CloudFront link - https://d18trg7tu661jg.cloudfront.net
 
 Automated configured s3/cloudfront resources:
+
+S3 link - http://my-second-surfboard-app.s3-website-us-east-1.amazonaws.com
 
 CloudFront link - https://d3mk48cuuo9cvv.cloudfront.net
 
